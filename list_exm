@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>listgenerator
+    </title>
+</head>
+<body>
+    <h1>
+        list of food items
+        
+    </h1>
+    <style>
+     h1{
+        color:blue
+     }
+     </style>
+     <h2>
+        according to wish list
+     </h2>
+     <style>
+           h2{
+            color:aquamarine
+           }
+     </style>
+     
+    <p>
+        <ul>
+            biriyani
+        </ul>
+    </p>
+</body>
+</html>
